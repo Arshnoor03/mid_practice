@@ -1,0 +1,169 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Arshnoor Kaur\\Desktop\\BCIT SEM4\\dj\\MidtermPractice_Comp4976\\BzrClientSide\\SchoolApi\\SchoolApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Arshnoor Kaur\\Desktop\\BCIT SEM4\\dj\\MidtermPractice_Comp4976\\BzrClientSide\\SchoolApi\\SchoolApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arshnoor Kaur\\Desktop\\BCIT SEM4\\dj\\MidtermPractice_Comp4976\\BzrClientSide\\SchoolApi\\SchoolApi.csproj",
+        "projectName": "SchoolApi",
+        "projectPath": "C:\\Users\\Arshnoor Kaur\\Desktop\\BCIT SEM4\\dj\\MidtermPractice_Comp4976\\BzrClientSide\\SchoolApi\\SchoolApi.csproj",
+        "packagesPath": "C:\\Users\\Arshnoor Kaur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arshnoor Kaur\\Desktop\\BCIT SEM4\\dj\\MidtermPractice_Comp4976\\BzrClientSide\\SchoolApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arshnoor Kaur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Arshnoor Kaur\\Desktop\\BCIT SEM4\\dj\\MidtermPractice_Comp4976\\BzrClientSide\\SchoolLibrary\\SchoolLibrary.csproj": {
+                "projectPath": "C:\\Users\\Arshnoor Kaur\\Desktop\\BCIT SEM4\\dj\\MidtermPractice_Comp4976\\BzrClientSide\\SchoolLibrary\\SchoolLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Arshnoor Kaur\\Desktop\\BCIT SEM4\\dj\\MidtermPractice_Comp4976\\BzrClientSide\\SchoolLibrary\\SchoolLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arshnoor Kaur\\Desktop\\BCIT SEM4\\dj\\MidtermPractice_Comp4976\\BzrClientSide\\SchoolLibrary\\SchoolLibrary.csproj",
+        "projectName": "SchoolLibrary",
+        "projectPath": "C:\\Users\\Arshnoor Kaur\\Desktop\\BCIT SEM4\\dj\\MidtermPractice_Comp4976\\BzrClientSide\\SchoolLibrary\\SchoolLibrary.csproj",
+        "packagesPath": "C:\\Users\\Arshnoor Kaur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arshnoor Kaur\\Desktop\\BCIT SEM4\\dj\\MidtermPractice_Comp4976\\BzrClientSide\\SchoolLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arshnoor Kaur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

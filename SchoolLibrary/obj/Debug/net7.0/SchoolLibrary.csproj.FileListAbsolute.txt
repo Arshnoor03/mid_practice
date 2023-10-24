@@ -1,0 +1,11 @@
+C:\Users\Arshnoor Kaur\Desktop\BCIT SEM4\dj\MidtermPractice_Comp4976\BzrClientSide\SchoolLibrary\bin\Debug\net7.0\SchoolLibrary.deps.json
+C:\Users\Arshnoor Kaur\Desktop\BCIT SEM4\dj\MidtermPractice_Comp4976\BzrClientSide\SchoolLibrary\bin\Debug\net7.0\SchoolLibrary.dll
+C:\Users\Arshnoor Kaur\Desktop\BCIT SEM4\dj\MidtermPractice_Comp4976\BzrClientSide\SchoolLibrary\bin\Debug\net7.0\SchoolLibrary.pdb
+C:\Users\Arshnoor Kaur\Desktop\BCIT SEM4\dj\MidtermPractice_Comp4976\BzrClientSide\SchoolLibrary\obj\Debug\net7.0\SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arshnoor Kaur\Desktop\BCIT SEM4\dj\MidtermPractice_Comp4976\BzrClientSide\SchoolLibrary\obj\Debug\net7.0\SchoolLibrary.AssemblyInfoInputs.cache
+C:\Users\Arshnoor Kaur\Desktop\BCIT SEM4\dj\MidtermPractice_Comp4976\BzrClientSide\SchoolLibrary\obj\Debug\net7.0\SchoolLibrary.AssemblyInfo.cs
+C:\Users\Arshnoor Kaur\Desktop\BCIT SEM4\dj\MidtermPractice_Comp4976\BzrClientSide\SchoolLibrary\obj\Debug\net7.0\SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Arshnoor Kaur\Desktop\BCIT SEM4\dj\MidtermPractice_Comp4976\BzrClientSide\SchoolLibrary\obj\Debug\net7.0\SchoolLibrary.dll
+C:\Users\Arshnoor Kaur\Desktop\BCIT SEM4\dj\MidtermPractice_Comp4976\BzrClientSide\SchoolLibrary\obj\Debug\net7.0\refint\SchoolLibrary.dll
+C:\Users\Arshnoor Kaur\Desktop\BCIT SEM4\dj\MidtermPractice_Comp4976\BzrClientSide\SchoolLibrary\obj\Debug\net7.0\SchoolLibrary.pdb
+C:\Users\Arshnoor Kaur\Desktop\BCIT SEM4\dj\MidtermPractice_Comp4976\BzrClientSide\SchoolLibrary\obj\Debug\net7.0\ref\SchoolLibrary.dll

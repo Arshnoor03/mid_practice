@@ -1,0 +1,57 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BlazorClient
+build_property.RootNamespace = BlazorClient
+build_property.ProjectDir = C:\Users\Arshnoor Kaur\Desktop\BCIT SEM4\dj\MidtermPractice_Comp4976\BzrClientSide\BlazorClient\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Arshnoor Kaur\Desktop\BCIT SEM4\dj\MidtermPractice_Comp4976\BzrClientSide\BlazorClient
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Arshnoor Kaur/Desktop/BCIT SEM4/dj/MidtermPractice_Comp4976/BzrClientSide/BlazorClient/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arshnoor Kaur/Desktop/BCIT SEM4/dj/MidtermPractice_Comp4976/BzrClientSide/BlazorClient/Pages/AddStudent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkU3R1ZGVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arshnoor Kaur/Desktop/BCIT SEM4/dj/MidtermPractice_Comp4976/BzrClientSide/BlazorClient/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arshnoor Kaur/Desktop/BCIT SEM4/dj/MidtermPractice_Comp4976/BzrClientSide/BlazorClient/Pages/GetStudent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2V0U3R1ZGVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arshnoor Kaur/Desktop/BCIT SEM4/dj/MidtermPractice_Comp4976/BzrClientSide/BlazorClient/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arshnoor Kaur/Desktop/BCIT SEM4/dj/MidtermPractice_Comp4976/BzrClientSide/BlazorClient/Pages/UpdateDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBkYXRlRGVsZXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arshnoor Kaur/Desktop/BCIT SEM4/dj/MidtermPractice_Comp4976/BzrClientSide/BlazorClient/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arshnoor Kaur/Desktop/BCIT SEM4/dj/MidtermPractice_Comp4976/BzrClientSide/BlazorClient/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arshnoor Kaur/Desktop/BCIT SEM4/dj/MidtermPractice_Comp4976/BzrClientSide/BlazorClient/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-lor2elsqal
+
+[C:/Users/Arshnoor Kaur/Desktop/BCIT SEM4/dj/MidtermPractice_Comp4976/BzrClientSide/BlazorClient/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-9woexif8f0

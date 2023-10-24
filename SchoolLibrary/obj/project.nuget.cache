@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ODDZm0xJ0FKvg+5zn/6aqIMSgPw5UFRbLUGW3yEQlId57tQMHFzvSC1yy66Hf9cMgpWn66+KM8kScSt/4gGv2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arshnoor Kaur\\Desktop\\BCIT SEM4\\dj\\MidtermPractice_Comp4976\\BzrClientSide\\SchoolLibrary\\SchoolLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arshnoor Kaur\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
